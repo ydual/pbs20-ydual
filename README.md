@@ -11,6 +11,10 @@ After building the project, please run `./build/project` at the project folder. 
 ./build/project ${DEMO_ID}
 ```
 
+# Final Presentation
+Some demo videos can be found via [here](https://ethz-my.sharepoint.com/:p:/g/personal/duyin_ethz_ch/ETgkLMrzCR9MqU-RM0McmuUBOeZEJv-82slQR29n9fm2Cg?e=jghtAr).
+Note: You may need ETH account to view the shared file.
+
 # Milestones
 * [x] Material Point Method framework in 2D/3D.
 * [x] Drucker-Prager elastoplasticity model.
